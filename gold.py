@@ -1,5 +1,4 @@
-from mcpi.minecraft import Minecraft
-mc = Minecraft.create()
+C
 
 while True:
     hits = mc.events.pollBlockHits()
